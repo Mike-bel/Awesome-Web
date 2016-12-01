@@ -6,6 +6,8 @@ This is a better way to show some web frontend developmeng resouces.
 
 - [WebFrontEndStack](https://github.com/unruledboy/WebFrontEndStack)
 
+- [前端必备学习指南](http://blog.thankbabe.com/collection/)
+
 # Develop Tools
 
 - OffLine IDE
