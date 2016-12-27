@@ -11,6 +11,8 @@ This is a better way to show some web frontend developmeng resouces.
 
 - [廖雪峰 - JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 
+- [(英文) MDN - Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
+
 # Reference Manual
 
 - [Css Values](http://cssvalues.com/)
