@@ -27,6 +27,18 @@ This is a better way to show some web frontend developmeng resouces.
 
   - [AXdqrW](http://codepen.io/airen/pen/AXdqrW)
   
+  - [RunJS](http://runjs.cn/)
+  
+  - [dabblet](http://dabblet.com/)
+  
+  - [JS Bin](http://jsbin.com/)
+  
+  - [JSFiddle](https://jsfiddle.net/)
+  
+  - [rendur](http://rendur.com/)
+  
+  - [Rendera](http://rendera.herokuapp.com/)
+  
 - Plugins
 
   - [Emmet](http://emmet.io/)
