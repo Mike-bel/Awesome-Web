@@ -28,5 +28,4 @@ This is a better way to show some web frontend developmeng resouces.
   - [Emmet](http://emmet.io/)
   
     Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow.
-    
-    For example, [Emmet for Sublime Text](https://github.com/sergeche/emmet-sublime).
+    For example, [Emmet for Sublime Text](https://github.com/sergeche/emmet-sublime).
