@@ -43,6 +43,8 @@ This is a better way to show some web frontend developmeng resouces.
   
   - [Rendera](http://rendera.herokuapp.com/)
   
+  - [Sizzy](https://github.com/kitze/sizzy): A tool for developing responsive websites crazy-fast.
+  
 - Plugins
 
   - [Emmet](http://emmet.io/)
