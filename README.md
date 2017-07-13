@@ -15,6 +15,10 @@ This is a better way to show some web frontend developmeng resouces.
 
 - [MDN - Web technology for developers](https://developer.mozilla.org/zh-CN/docs/Web)
 
+- CSS
+
+  - [学习CSS布局](http://zh.learnlayout.com/index.html)
+
 # Reference Manual
 
 - [菜鸟教程](http://www.runoob.com/)
