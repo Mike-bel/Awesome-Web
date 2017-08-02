@@ -18,6 +18,10 @@ This is a better way to show some web frontend developmeng resouces.
 - CSS
 
   - [学习CSS布局](http://zh.learnlayout.com/index.html)
+  
+  - [这可能是史上最全的CSS自适应布局总结教程](http://www.cnblogs.com/qieguo/p/5421252.html)
+    
+  - [All About Floats](https://css-tricks.com/all-about-floats/)
 
 # Reference Manual
 
