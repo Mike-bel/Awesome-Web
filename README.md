@@ -37,6 +37,9 @@ This is a better way to show some web frontend developmeng resouces.
 
 - OffLine IDE
 
+  [WebStorm](https://www.jetbrains.com/webstorm/) | [adobe/brackets](https://github.com/adobe/brackets/releases)
+  :---:                                            | :---: |
+
   - [WebStorm](https://www.jetbrains.com/webstorm/)
 
   - [adobe/brackets](https://github.com/adobe/brackets/releases)
