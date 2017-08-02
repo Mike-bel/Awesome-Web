@@ -25,6 +25,10 @@ This is a better way to show some web frontend developmeng resouces.
 
 - [Css Values](http://cssvalues.com/)
 
+# Blob
+
+  - [张鑫旭](http://www.zhangxinxu.com/wordpress/)
+
 # Develop Tools
 
 - OffLine IDE
