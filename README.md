@@ -15,6 +15,12 @@ This is a better way to show some web frontend developmeng resouces.
 
 - [MDN - Web technology for developers](https://developer.mozilla.org/zh-CN/docs/Web)
 
+- [前端工程师手册 - GitBook](https://www.gitbook.com/book/leohxj/front-end-database/details)
+
+  - [前端模块化](http://www.cnblogs.com/dolphinX/p/4381855.html)
+  
+  - [浅谈前端模块化](http://imweb.io/topic/55994b358555272639cb031b)
+
 - CSS
 
   - [学习CSS布局](http://zh.learnlayout.com/index.html)
@@ -32,6 +38,12 @@ This is a better way to show some web frontend developmeng resouces.
 # Blob
 
   - [张鑫旭](http://www.zhangxinxu.com/wordpress/)
+  
+# Others
+
+  - [Public APIs](https://github.com/toddmotto/public-apis)
+  
+  A collective list of public JSON APIs for use in web development.
 
 # Develop Tools
 
