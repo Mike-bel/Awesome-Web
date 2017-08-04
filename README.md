@@ -42,7 +42,6 @@ This is a better way to show some web frontend developmeng resouces.
 # Others
 
   - [Public APIs](https://github.com/toddmotto/public-apis)
-  
   A collective list of public JSON APIs for use in web development.
 
 # Develop Tools
