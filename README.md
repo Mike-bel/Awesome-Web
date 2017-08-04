@@ -15,11 +15,15 @@ This is a better way to show some web frontend developmeng resouces.
 
 - [MDN - Web technology for developers](https://developer.mozilla.org/zh-CN/docs/Web)
 
+- [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
+
 - [前端工程师手册 - GitBook](https://www.gitbook.com/book/leohxj/front-end-database/details)
 
-  - [前端模块化](http://www.cnblogs.com/dolphinX/p/4381855.html)
+  - [前端模块化](http://www.cnblogs.com/dolphinX/p/4381855.html)
   
   - [浅谈前端模块化](http://imweb.io/topic/55994b358555272639cb031b)
+  
+  - [理解与使用JavaScript中的回调函数](https://www.w3cplus.com/javascript/Sexy-Javascript-understand-the-callback-function-with-the-use-of-Javascript-in.html)
 
 - CSS
 
