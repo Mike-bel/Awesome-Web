@@ -24,6 +24,8 @@ This is a better way to show some web frontend developmeng resouces.
   - [浅谈前端模块化](http://imweb.io/topic/55994b358555272639cb031b)
   
   - [理解与使用JavaScript中的回调函数](https://www.w3cplus.com/javascript/Sexy-Javascript-understand-the-callback-function-with-the-use-of-Javascript-in.html)
+  
+  - [JavaScript ES6箭头函数指南](https://segmentfault.com/a/1190000003781467)
 
 - CSS
 
