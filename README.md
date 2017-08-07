@@ -45,6 +45,8 @@ This is a better way to show some web frontend developmeng resouces.
 
   - [张鑫旭](http://www.zhangxinxu.com/wordpress/)
   
+  - [胜洪宇](http://jspang.com/2017/06/03/es6/)
+  
 # Others
 
   - [Public APIs](https://github.com/toddmotto/public-apis)
