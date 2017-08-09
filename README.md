@@ -34,6 +34,12 @@ This is a better way to show some web frontend developmeng resouces.
   - [这可能是史上最全的CSS自适应布局总结教程](http://www.cnblogs.com/qieguo/p/5421252.html)
     
   - [All About Floats](https://css-tricks.com/all-about-floats/)
+  
+- 前端规范
+
+  - [规范 - NEC : 更好的CSS样式解决方案](http://nec.netease.com/standard/)
+  
+  - [CSS 命名规范总结 - By 简单心理 · 技术团队](https://jiandanxinli.github.io/2016-08-11.html)
 
 # Reference Manual
 
