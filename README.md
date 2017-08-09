@@ -11,7 +11,7 @@ This is a better way to show some web frontend developmeng resouces.
 
 - [廖雪峰 - JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 
-- [阮一峰 - JavaScript 标砖参考教程](https://github.com/ruanyf/jstutorial)
+- [阮一峰 - JavaScript 标准参考教程](https://github.com/ruanyf/jstutorial)
 
 - [MDN - Web technology for developers](https://developer.mozilla.org/zh-CN/docs/Web)
 
