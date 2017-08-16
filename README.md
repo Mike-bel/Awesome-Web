@@ -53,6 +53,8 @@ This is a better way to show some web frontend developmeng resouces.
   
   - [胜洪宇](http://jspang.com/2017/06/03/es6/)
   
+    - [技术胖带你玩转ES6视频教程](http://jspang.com/2017/06/03/es6/)
+  
 # Others
 
   - [Public APIs](https://github.com/toddmotto/public-apis)
