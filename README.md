@@ -13,6 +13,8 @@ This is a better way to show some web frontend developmeng resouces.
 
 - [阮一峰 - JavaScript 标准参考教程](https://github.com/ruanyf/jstutorial)
 
+- [阮一峰 - ECMAScript 6 入门](https://es6.ruanyifeng.com/)
+
 - [MDN - Web technology for developers](https://developer.mozilla.org/zh-CN/docs/Web)
 
 - [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
